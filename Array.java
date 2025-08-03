@@ -6,7 +6,6 @@ public class Array {
         // In Java, an array is a data structure used to store multiple values of the same type in a single variable. 
         // Each element in the array is accessed using an index, which starts from 0.
         int[] num={1,2,6,3,8};
-        char[] characters = {'A','B','C','D'};
         int a = num[1];
         System.out.println(a);
 

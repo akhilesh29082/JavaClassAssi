@@ -1,27 +1,3 @@
-public class DataTypes
-{
-    public static void main(String[] args)
-    {
-        System.out.println("Hello");
-
-        String name = "Harshini";
-        System.out.println("name:"+name);
-
-
-        float dec = 6.2f;
-        System.out.println(dec);
-
-        int myNum = 95;
-        myNum =60;
-        System.out.println(myNum);  
-
-        char letter = 'H';
-        System.out.println(letter);
-
-        final int Num = 15;
-        System.out.println(Num);
-    }
-}
 // Data types are divided into two groups:
 
 // Primitive data types - includes byte, short, int, long, float, double, boolean and char
@@ -48,3 +24,29 @@ public class DataTypes
 // boolean - stores values with two states: true or false
 
 
+
+
+public class DataTypes
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello");
+
+        String name = "Harshini";
+        System.out.println("name:"+name);
+
+
+        float dec = 6.2f;
+        System.out.println(dec);
+
+        int myNum = 95;
+        myNum =60;
+        System.out.println(myNum);  
+
+        char letter = 'H';
+        System.out.println(letter);
+
+        final int Num = 15;
+        System.out.println(Num);
+    }
+}
